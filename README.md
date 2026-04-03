@@ -1,4 +1,4 @@
-# Helldivers2Menu
+# color menu
 
 <p align="center">
    collor menu is a recolor for the popular Game Helldivers 2.
@@ -33,7 +33,7 @@ First you will need protontricks, you can install it with your packager of choic
 8. In the configuration window, click on **Libraries**
 9. Type `version` into the **New override for library** input
 10. Click **Add** and then **Apply**
-11. Helldivers2Menu should now work properly in the game
+11. color menu should now work properly in the game
 
 ### Default Hotkeys
 - Show Menu - DELETE
