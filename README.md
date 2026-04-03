@@ -1,7 +1,7 @@
 # Helldivers2Menu
 
 <p align="center">
-   Helldivers2Menu is a Cheat Menu for the popular Game Helldivers 2.
+   collor menu is a recolor for the popular Game Helldivers 2.
 </p>
 
 ## Disclaimer
@@ -42,10 +42,3 @@ First you will need protontricks, you can install it with your packager of choic
 <p align="center">
    <img src="screenshot.png">
 </p>
-
-## Contributing
-1. Fork it (<https://github.com/BitCrackers/Helldivers2Menu/fork>)
-2. Create your feature branch (`git checkout -b feature/fooBar`)
-3. Commit your changes (`git commit -am 'Add some fooBar'`)
-4. Push to the branch (`git push origin feature/fooBar`)
-5. Create a new Pull Request
